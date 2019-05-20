@@ -9,7 +9,5 @@ class ChattyStudent < Student
    for i in 1..10 do
       super
   end
-    
-  end 
-  
+
 end 
